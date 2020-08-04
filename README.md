@@ -2,7 +2,7 @@
 
 # Victor Cavalcante
 
-🇧🇷  &nbsp; Atualmente estou atuando como freelancer (Estou aberto a novas oportunidades);
+🇧🇷 &nbsp; Atualmente estou atuando como freelancer (Estou aberto a novas oportunidades);
 
 
 - 🔭 I’m currently working on ...
