@@ -9,15 +9,16 @@ Recentemente finalizei um bootcamp de Fullstack Developer pela IGTI :computer: :
 
 
 
-- 🔭 &nbsp; Atualmente estou atuando como freelancer (Estou aberto a novas oportunidades);
+🔭 &nbsp; Atualmente estou atuando como freelancer (Estou aberto a novas oportunidades) :smiley:;
+
+🌱 &nbsp; Estou atualmente me dedicando/estudando na área de desenvolvimento.
+
+:purple_heart: &nbsp; Estou buscando colaborar em projetos na área de automação em redes e colaboração.
+
+:computer: &nbsp; Minha stack: Python,Javascript,ReactJS, Node.js, React Native & Typescript
+
+💬  &nbsp; Sobre mim: Curto tecnologias, livros e autodesenvolvimento.
+
+:email: &nbsp; Entre em contato comigo:(https://www.linkedin.com/in/victorgomespro/)
 
 
- I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
