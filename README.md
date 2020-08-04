@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
-**tecvictor/tecvictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Victor Cavalcante
 
-Here are some ideas to get you started:
+:🇧🇷  &nbsp; Atualmente estou atuando como freelancer (Estou aberto a novas oportunidades);
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
