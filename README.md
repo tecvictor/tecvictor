@@ -9,7 +9,7 @@ Recentemente finalizei um bootcamp de Fullstack Developer pela IGTI :computer: :
 
 
 
-🔭 &nbsp; Atualmente estou atuando como freelancer (Estou aberto a novas oportunidades) :smiley:;
+🔭 &nbsp; Atualmente estou atuando como freelancer e aberto a novas oportunidades 
 
 🌱 &nbsp; Estou atualmente me dedicando/estudando na área de desenvolvimento.
 
@@ -19,6 +19,6 @@ Recentemente finalizei um bootcamp de Fullstack Developer pela IGTI :computer: :
 
 💬  &nbsp; Sobre mim: Curto tecnologias, livros e autodesenvolvimento.
 
-:email: &nbsp; Entre em contato comigo:(https://www.linkedin.com/in/victorgomespro/)
+:email: &nbsp; Entre em contato comigo através do meu linkedin (https://www.linkedin.com/in/victorgomespro/) ou e-mail tecvictor@gmail.com.
 
 
